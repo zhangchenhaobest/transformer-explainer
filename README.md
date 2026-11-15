@@ -1,3 +1,29 @@
+# transformer-explainer
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用交互式可视化讲解 LLM Transformer 模型工作原理。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Transformer Explainer: Interactive Learning of Text-Generative Models
 
 Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work. It runs a live GPT-2 model right in your browser, allowing you to experiment with your own text and observe in real time how internal components and operations of the Transformer work together to predict the next tokens. Try Transformer Explainer at http://poloclub.github.io/transformer-explainer and watch a demo video on YouTube https://youtu.be/TFUc41G2ikY.<br/><br/>
